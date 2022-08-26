@@ -19,3 +19,10 @@
 ## Data Format
 
 
+### Table
+keyword  
+table   
+cell entity annotation  
+column type annotation (optional)
+augmented properties
+
