@@ -1,6 +1,3 @@
-[TOC]
-
-
 ---
 
 
@@ -10,14 +7,14 @@
 ## Directory
 
 
-├─HybridQA
-│  └─tables
-├─WikiTableQuestions
-│  ├─data
-│  └─tables
-└─WikiTables-WithLinks-master
-    ├─mtab_annotation
-    └─tables_csv
+├─HybridQA  
+│  └─tables  
+├─WikiTableQuestions  
+│  ├─data  
+│  └─tables   
+└─WikiTables-WithLinks-master  
+    ├─mtab_annotation  
+    └─tables_csv  
 
 ## Data Format
 
